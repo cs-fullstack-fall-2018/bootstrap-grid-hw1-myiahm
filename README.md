@@ -4,3 +4,7 @@ Using bootstrap's grid system (https://getbootstrap.com/docs/4.1/layout/grid/), 
 
 Example:
 The first navigation bar would be col-lg-12. The next would be col-lg col-lg col-lg col-lg col-lg col-lg col-lg col-lg col-lg. The next one would be col-lg-12 for the large jumbotron. Write out the next items that would be on the CodeCrew site.
+
+
+
+col-lg col-lg col-lg col-lg col-lg col-lg col-lg col-lg col-lg
